@@ -2,6 +2,7 @@ Phases 0
 	Modeling database
 	Start new testing environment
 
+Phases 1
 	Add region zones
 	Add city
 	Add area in city
